@@ -1,2 +1,2 @@
 # cohort-analysis
-Simple practice code for cohort analysis for costumer retention exploration
+Simple practice code for cohort analysis for customer retention exploration
